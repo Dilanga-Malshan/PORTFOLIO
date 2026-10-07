@@ -1,4 +1,23 @@
-# Dilanga Malshan — Portfolio
+<h1 align="center">Dilanga Malshan — Portfolio</h1>
+
+<p align="center">
+  <strong>AI &amp; Software Engineering Undergraduate · Aspiring GenAI Engineer</strong>
+</p>
+
+<p align="center">
+  <a href="https://dilanga-malshan-portfolio.dilangamalshan15.chatgpt.site/">
+    <img src="https://img.shields.io/badge/VIEW%20MY%20PORTFOLIO%20%E2%86%97-C8F77C?style=for-the-badge&amp;logo=googlechrome&amp;logoColor=111310" alt="View my portfolio" height="52" />
+  </a>
+</p>
+
+<h2 align="center"><a href="https://dilanga-malshan-portfolio.dilangamalshan15.chatgpt.site/">Explore the live portfolio ↗</a></h2>
+
+<p align="center">
+  <strong>Why build alone when GPT is right there?</strong><br />
+  My ideas. Built with GPT. Hosted on ChatGPT Sites.
+</p>
+
+---
 
 Personal portfolio for an AI & Software Engineering undergraduate and aspiring GenAI engineer.
 
